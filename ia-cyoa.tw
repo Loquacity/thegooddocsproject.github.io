@@ -10,6 +10,7 @@
 
 Information Architecture
 
+
 :: Start
 
 userName: ' '
@@ -18,8 +19,6 @@ userName: ' '
 # Information Architecture
 
 **[[Let's Start->Intro]]**
-
-{embed image: 'images/manualmanual.svg', alt: 'A happy person in a pink shirt, with a halo, holding a purple book named "The manaul About Writing Manauls"'}
 
 :: Intro
 config.footer.left: "▰▱▱▱▱▱▱▱▱▱ 6%"
